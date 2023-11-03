@@ -1,1 +1,2 @@
 creates all file.txt file
+welcome to file
